@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@tejas00000000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tejas00000000" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/link-tejas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/link-tejas" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/link-tejas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/link-tejas" height="30" width="40" /></a>
 <a href="https://instagram.com/ig.tejas.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig.tejas.11" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Tejas-00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lc-tejas-11" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@tcsonawane371122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@tcsonawane371122" height="30" width="40" /></a>
