@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejas-00" alt="tejas-00" /></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/link-tejas/" target="blank"><img src="https://img.shields.io/twitter/follow/@tejas00000000?logo=twitter&style=for-the-badge" alt="@tejas00000000" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/link-tejas/" target="blank"><img src="https://img.shields.io/linkedin/follow/@link-tejas?logo=twitter&style=for-the-badge" alt="@tejas00000000" /></a> </p>
 
 - 📫 How to reach me **tejassonawanework@gmail.com**
 
